@@ -1,0 +1,28 @@
+
+2|1|english|funny|My bed is a magical place. I suddenly remember everything I had to do.
+3|5|english|christmas|Christmas isn’t a season. It’s a feeling.
+9|1|deutsch|humorvoll|Multitasking ist, wenn man alles gleichzeitig vergisst.
+13|2|deutsch|humorvoll|Humor ist, wenn man trotzdem lacht – meistens über sich selbst.
+4|1|deutsch|humorvoll|Warum kompliziert, wenn es auch einfach geht? Weil es lustiger ist.
+12|5|deutsch|ostern|Ein Osterfest ohne bunte Eier ist wie ein Frühling ohne Blumen.
+19|3|deutsch|humorvoll|Ein Tag ohne Lachen ist ein verlorener Tag – oder einfach ein Montag.
+2|1|deutsch|humorvoll|Das Leben ist zu kurz, um schlechten Kaffee zu trinken.
+3|5|deutsch|humorvoll|Ich bin nicht faul, ich bin im Energiesparmodus.
+15|1|deutsch|ernst|Jeder Schmerz ist ein Lehrer.
+10|1|deutsch|humorvoll|Ich habe keine Fehler gemacht – das war alles ein geplanter Testlauf.
+17|5|english|funny|I’d like to agree with you, but then we’d both be wrong.
+1|5|deutsch|ernst|Geduld ist eine Tugend, die du täglich üben solltest.
+10|4|english|serious|Don’t count the days, make the days count.
+0|1|deutsch|humorvoll|Lächle, du kannst sie nicht alle töten.
+9|5|deutsch|weihnachten|Weihnachten ist die Zeit, in der Wünsche wahr werden können.
+7|5|deutsch|humorvoll|Es gibt keinen Grund, erwachsen zu werden, wenn man es nicht will.
+16|5|english|funny|I’m on a whiskey diet. I’ve lost three days already.
+12|1|deutsch|humorvoll|Ich bin nicht klein, ich bin platzsparend.
+2|5|deutsch|humorvoll|Das Leben ist zu kurz, um schlechten Kaffee zu trinken.
+11|2|english|funny|The early bird can have the worm, I’ll take pancakes.
+9|5|deutsch|humorvoll|Multitasking ist, wenn man alles gleichzeitig vergisst.
+18|2|deutsch|ernst|Vertrauen ist schwer zu gewinnen und leicht zu verlieren.
+16|2|deutsch|ernst|Das, was du heute tust, bestimmt dein Morgen.
+3|2|deutsch|humorvoll|Ich bin nicht faul, ich bin im Energiesparmodus.
+-1|1|deutsch|1|Kategorie nicht gefunden. Bitte wähle eine gültige Kategorie.
+14|5|english|funny|I put my phone on airplane mode, but it’s not flying!
